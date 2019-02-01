@@ -2,7 +2,7 @@
   "executionRoleArn": "arn:aws:iam::315310191156:role/ecsTaskExecutionRole",
   "containerDefinitions": [
     {
-      "name": "hello-nodejs-container",
+      "name": "hello-nodejs",
       "image": "<IMAGE1_NAME>",
       "portMappings": [
         {
