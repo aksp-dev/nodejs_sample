@@ -15,7 +15,7 @@
     }
   ],
   "requiresCompatibilities": ["EC2"],
-  "networkMode": "awsvpc",
+  "networkMode": "default",
   "cpu": "256",
   "memory": "512",
   "family": "hello-nodejs-task-fatigate"
