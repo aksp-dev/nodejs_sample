@@ -18,5 +18,5 @@
   "networkMode": "awsvpc",
   "cpu": "256",
   "memory": "512",
-  "family": "hello-nodejs-task"
+  "family": "hello-nodejs-task-fatigate"
 }
